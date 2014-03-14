@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.6.0_45-b06 (Sun Microsystems Inc.)
+Main-Class: com.jscape.ftcl.FTCL
+Version: Secure FTP Factory 9.1.0
+
